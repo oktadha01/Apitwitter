@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>twitterokta</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>twitterokta</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>APItwitter.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>..\..\guntur\gunturapi\twitt.java.sdk</path>
+			<symbols>
+				<symbol>twitt</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>APItwitter.java.sdk</path>
+			<symbols>
+				<symbol>APItwitter</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
